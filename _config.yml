@@ -1,0 +1,6 @@
+title: Land Terrain
+description: "Support, privacy policy and terms of use for Land Terrain: Topo & Drainage"
+url: "https://developer-barseghyan.github.io"
+baseurl: /land-terrain-support
+exclude:
+  - README.md
